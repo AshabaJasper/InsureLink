@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "373869220174",
+    "project_id": "insure-link-8p3kug",
+    "storage_bucket": "insure-link-8p3kug.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:373869220174:android:daeb015b1e697ae9b18e1f",
+        "android_client_info": {
+          "package_name": "com.flutterflow.healthai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASK1R6o8RPqwvbWRM0Y7t7XOO4lwKBSGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
